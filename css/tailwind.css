@@ -1,0 +1,10 @@
+@import url("https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css");
+@import url("https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css");
+
+html {
+  scroll-behavior: smooth;
+}
+
+.dataTables_wrapper {
+  font-family: inherit;
+}
