@@ -1,1 +1,2 @@
-# actividad_js
+# Javascript - Requerimientos Asíncronos
+Samuel Echeverria
